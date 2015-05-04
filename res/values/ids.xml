@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="header">false</item>
+    <item type="id" name="topbar">false</item>
+    <item type="id" name="searchbar">false</item>
+    <item type="id" name="bottombar">false</item>
+    <item type="id" name="bottombutton">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="listtext">false</item>
+    <item type="id" name="listextra">false</item>
+    <item type="id" name="filesize">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="checkbox">false</item>
+</resources>
